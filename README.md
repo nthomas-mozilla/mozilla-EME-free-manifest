@@ -18,7 +18,7 @@ Setup
 mkdir repacks && cd repacks
 curl https://raw.githubusercontent.com/mozilla/git-repo/master/repo > ./repo
 chmod u+x ./repo
-./repo init --no-repo-verify -u git@github.com:mozilla-partners/mozilla-EME-manifest.git
+./repo init --no-repo-verify -u git@github.com:mozilla-partners/mozilla-EME-free-manifest.git
 ./repo sync
 ```
 
