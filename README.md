@@ -7,7 +7,6 @@ Prereqs
 -------
 
 ```
-brew install upx
 brew install p7zip
 ```
 
